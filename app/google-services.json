@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442636842340",
+    "firebase_url": "https://fcmone-796f3.firebaseio.com",
+    "project_id": "fcmone-796f3",
+    "storage_bucket": "fcmone-796f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442636842340:android:3922bf9d5260f7c1",
+        "android_client_info": {
+          "package_name": "dropdevs.fcmone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442636842340-8lfdqv4324s0qmra86d692tfs0rhvnip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dropdevs.fcmone",
+            "certificate_hash": "76640ab797df352f1edd4ca13c80105bb5287d35"
+          }
+        },
+        {
+          "client_id": "442636842340-2hvhvttmk80podbo5phjh18pcdk24tue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLf1dnERcGdyxV3EUtRyV2axyq4irbkEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442636842340-2hvhvttmk80podbo5phjh18pcdk24tue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
